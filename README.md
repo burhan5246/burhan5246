@@ -149,7 +149,7 @@ Online learning platform.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=burhan5246&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?user=burhan5246&show_icons=true&theme=tokyonight" />
 
 <br/>
 
@@ -157,7 +157,7 @@ Online learning platform.
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhan5246&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=burhan5246&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -165,9 +165,9 @@ Online learning platform.
 
 ## 🤝 Let's Connect
 
-💼 Upwork: https://www.upwork.com/freelancers/~YOUR_UPWORK_ID
+💼 Upwork: https://www.upwork.com/freelancers/~01d6f0b97ff118950d
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+💼 LinkedIn: https://www.linkedin.com/in/burhanuddin-sarangpurwala-b9930b111/
 
 🌐 Portfolio: https://burhanstack.dev
 
