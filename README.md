@@ -149,15 +149,10 @@ Online learning platform.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?user=burhan5246&show_icons=true&theme=tokyonight" />
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=burhan5246&theme=tokyonight" />
 
-<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=burhan5246&layout=compact&theme=tokyonight" />
 
 </p>
 
